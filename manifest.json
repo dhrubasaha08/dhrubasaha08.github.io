@@ -1,0 +1,23 @@
+{
+    "short_name": "CV",
+    "name": "Dhruba Saha's Curriculum Vitae",
+    "icons": [
+        {
+            "src": "https://dhrubasaha.bss.design/assets/img/favicon/android-icon-192x192.png?h=ce57fe7107df97f5515d99a2a9f569c6",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://dhrubasaha.bss.design/assets/img/favicon/android-splash-512x512.png?h=aa05ac70ae0ccbbfc56591d4c101e609",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#f5f5f5",
+    "theme_color": "#333333",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
